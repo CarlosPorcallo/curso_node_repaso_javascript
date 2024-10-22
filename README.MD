@@ -4,4 +4,4 @@ Compilado con los tópicos principales y requeridos para introducirnos en el len
 
 ## Run
 
-Todos los ejercicios se pueden llevar a cabor en el sitio  [JSFiddle](https://jsfiddle.net/) con el navegador web sin necesidad de instralar ninguna librería extra.
+Todos los ejercicios se pueden llevar a cabor en el sitio  [JSFiddle](https://jsfiddle.net/) con el navegador web sin necesidad de instalar ninguna librería extra.
